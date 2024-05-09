@@ -1,6 +1,14 @@
 <h1 align="center" id="title">Data Science Customer Segmentation Analysis - Retail Stores</h1>
 
-<p id="description">I handled various tasks on a Kaggle dataset including data wrangling exploratory data analysis (EDA) data preprocessing and modeling particularly focusing on customer segmentation. Utilizing the K-Means algorithm I conducted customer segmentation following dimensionality reduction techniques.</p>
+<p id="description">I handled various tasks on a Kaggle dataset including data wrangling exploratory data analysis (EDA) data preprocessing and modeling particularly focusing on customer segmentation. Utilizing the K-Means algorithm I conducted customer segmentation following dimensionality reduction techniques.
+
+This repository has 6 files containing:
+-Data & Wrangling
+-EDA
+-Preprocessing
+-Modeling
+-Documentation
+-Presentation Slides</p>
 
   
   
